@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="../01 - aldersgrans/01 - aldersgrans.csproj" />
+  <Project Path="../02 - dorrvakten/02 - dorrvakten.csproj" />
+  <Project Path="../03 - temperaturvarnaren/03 - temperaturvarnaren.csproj" />
+  <Project Path="../04 - veckodagskontrollen/04 - veckodagskontrollen.csproj" />
+  <Project Path="../06 - inloggningskontroll/06 - inloggningskontroll.csproj" />
+  <Project Path="05 - medlemsstatus/05 - medlemsstatus.csproj" Id="06925644-0560-4ed6-b0b9-e885eb8d0ba2" />
+  <Project Path="07 - rabattvaljaren/07 - rabattvaljaren.csproj" Id="1737b4bd-d724-4e31-bf6f-e19b11b2c139" />
+  <Project Path="08 - aldersgrans bio/08 - aldersgrans bio.csproj" Id="5c364c74-13f1-4689-97c4-d2534443b038" />
+  <Project Path="09 - support-arende/09 - support-arende.csproj" Id="012b9af0-2c84-405f-b688-ee27579025a4" />
+  <Project Path="10 - biluthyrningen/10 - biluthyrningen.csproj" Id="1bcd9e08-f15e-4233-aee0-dc2e445b2b53" />
+  <Project Path="11 - textanalysatorn/11 - textanalysatorn.csproj" Id="4c5dca3f-55ab-4045-8a2a-c95a8d47e894" />
+</Solution>
